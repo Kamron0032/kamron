@@ -1,0 +1,10 @@
+{
+    "Print to Console": {
+        "prefix": "log",
+        "body": [
+            "console.log('$BINGOO');",
+            "$2"
+        ],
+        "description": "Log output to console"
+    }
+}
